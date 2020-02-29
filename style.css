@@ -1,0 +1,244 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("CLose up shot of desk pc.JPG");
+    height: 125vh;
+    background-size: cover;
+    background-position: center;
+}
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 10px;
+    font-weight:bold;
+}
+.main-nav li
+{
+    display: inline-block;
+}
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.active a
+{
+    border: 1px solid white;
+    background-color:#63F338;
+}
+.main-nav li a:hover
+{
+    border: 1px solid white;
+    background color:#58D68D;
+}
+.logo img
+{
+    width: auto;
+    height: 150px;
+    margin-left:-250px;
+    margin-top:10px;
+
+}
+
+body
+{
+    font-family: monospace;
+}
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+
+.BLOG
+{
+    position: absolute;
+    width: 100%;
+    height: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+}
+#maintitle
+{
+    color:white;
+    font-size:75px;
+    text-align:center;
+    margin-top:400px;
+}
+
+
+#title1
+{
+    color:#F059A2;
+    font-size:75px;
+    text-align:center;
+    padding-top:50px;
+}
+#interests
+{
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("dark.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position:center;
+}
+p
+{
+    font-size: 20px;
+    color: white;
+    font-family: "Roboto",sans-serif,monospace;
+    font-style:normal;
+    padding-left:50px;
+    padding-right: 50px;
+    padding-bottom:20px;
+    text-align:justify-all;
+}
+#Twitch_Streamers li
+{
+    font-size:20px;
+    font-family:cursive;
+    color:white;
+    text-align:center;
+    list-style-type:lower-roman;
+}
+a
+{
+    color:#0BE3F9  ;
+    text-decoration: none;
+}
+a:hover
+{
+    color:cornflowerblue;
+}
+#aboutme
+{
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url("myself.jpeg");
+    height: 125vh;
+    background-size: cover;
+    background-position:center;
+}
+#myquote
+{
+    color:white;
+    font-size:20px;
+    text-align: center;
+    display:inline-block;
+    margin-top:30px;
+    margin-left:50px;
+}
+#aboutLeftSpan
+{
+    width:55%;
+    float:left;
+    
+    height:500px;
+    text-align:center;
+    align-content: center;
+    color:pink;
+    font-size: 20px;
+    
+}
+#aboutRightSpan
+{
+    width:40%;
+    float:right;
+    margin-right: 80px;
+    height:500px;
+    margin-top:400px;
+    position:absolute;
+    color:pink;
+    font-size:20px;
+}
+.secondHeader
+{
+    color:#E06432;
+    font-size:50px;
+    text-align:center;
+}
+#mypicture
+{
+    height:200px;
+    align-self: :baseline;
+    border:10px solid white;
+    margin:20px;
+}
+.tables
+{
+    font-family:arial,sans-serif;
+    border-collapse:collapse;
+    width:100%;
+    background-color:gray;
+    margin-top: 20px;
+}
+td,th
+{
+    border: 2px solid #ffffff;
+    text-align:left;
+    padding:8px;
+    text-align:center;
+    color:black;
+}
+.basiclists
+{
+    color:white;
+    text-align:center;
+    margin-top:20px;
+    font-size:20px;
+    float:left;
+    margin-left:100px;
+}
+#contact {
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(phn.jpeg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.button1
+{
+    background-color:black;
+    border: none;
+    color:white;
+    font-weight:bold;
+    padding:15px 32px;
+    text-align:center;
+    text-decoration:none;
+    display:inline-block;
+    font-size:16px;
+    margin-left:40%;
+    margin-right:10px;
+    margin-bottom:15px;
+}
+.button2
+{
+    background-color:black;
+    border: none;
+    color: white;
+    font-weight:bold;
+    padding: 15px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 35%;
+    margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
